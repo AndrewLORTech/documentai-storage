@@ -1,0 +1,95 @@
+<svg width="800" height="1200" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Document background -->
+<rect width="800" height="1200" fill="#FFFFFF" stroke="#E0E0E0"/>
+
+<!-- Header -->
+<rect x="50" y="50" width="700" height="60" fill="#F8F9FA"/>
+<text x="400" y="90" text-anchor="middle" fill="#1A202C" font-family="serif" font-size="24" font-weight="bold">
+Environmental Impact Assessment Approaches
+</text>
+
+<!-- Content area -->
+<text x="70" y="160" fill="#2D3748" font-family="serif" font-size="16" font-weight="600">
+Systematic Environmental Impact Assessment
+</text>
+
+<text x="70" y="200" fill="#4A5568" font-family="serif" font-size="14">
+The methodology includes systematic approaches to environmental impact assessment
+</text>
+<text x="70" y="220" fill="#4A5568" font-family="serif" font-size="14">
+and community consultation. These approaches ensure comprehensive evaluation
+</text>
+<text x="70" y="240" fill="#4A5568" font-family="serif" font-size="14">
+of environmental factors and stakeholder engagement throughout the planning
+</text>
+<text x="70" y="260" fill="#4A5568" font-family="serif" font-size="14">
+process, providing a robust framework for sustainable development.
+</text>
+
+<text x="70" y="310" fill="#2D3748" font-family="serif" font-size="16" font-weight="600">
+Community Consultation Integration
+</text>
+
+<text x="70" y="350" fill="#4A5568" font-family="serif" font-size="14">
+Community consultation is embedded as a core component of the assessment
+</text>
+<text x="70" y="370" fill="#4A5568" font-family="serif" font-size="14">
+methodology, ensuring that local knowledge and concerns are systematically
+</text>
+<text x="70" y="390" fill="#4A5568" font-family="serif" font-size="14">
+incorporated into environmental planning decisions and impact evaluations.
+</text>
+
+<text x="70" y="440" fill="#2D3748" font-family="serif" font-size="16" font-weight="600">
+Assessment Protocols and Standards
+</text>
+
+<text x="70" y="480" fill="#4A5568" font-family="serif" font-size="14">
+The document establishes standardized protocols for data collection, analysis,
+</text>
+<text x="70" y="500" fill="#4A5568" font-family="serif" font-size="14">
+and reporting that ensure consistency and reliability in environmental
+</text>
+<text x="70" y="520" fill="#4A5568" font-family="serif" font-size="14">
+impact assessments across different project types and scales.
+</text>
+
+<!-- Highlighted section -->
+<rect x="60" y="560" width="680" height="120" fill="#F0FDF4" stroke="#22C55E" stroke-width="2" rx="8"/>
+<text x="400" y="590" text-anchor="middle" fill="#15803D" font-family="serif" font-size="16" font-weight="600">
+Key Assessment Components
+</text>
+<text x="80" y="615" fill="#166534" font-family="serif" font-size="14">
+• Baseline environmental condition documentation
+</text>
+<text x="80" y="635" fill="#166534" font-family="serif" font-size="14">
+• Impact prediction and significance evaluation
+</text>
+<text x="80" y="655" fill="#166534" font-family="serif" font-size="14">
+• Mitigation measure identification and implementation
+</text>
+<text x="80" y="675" fill="#166534" font-family="serif" font-size="14">
+• Ongoing monitoring and adaptive management protocols
+</text>
+
+<text x="70" y="720" fill="#2D3748" font-family="serif" font-size="16" font-weight="600">
+Stakeholder Engagement Framework
+</text>
+
+<text x="70" y="760" fill="#4A5568" font-family="serif" font-size="14">
+The methodology emphasizes structured stakeholder engagement processes that
+</text>
+<text x="70" y="780" fill="#4A5568" font-family="serif" font-size="14">
+facilitate meaningful participation from community members, government agencies,
+</text>
+<text x="70" y="800" fill="#4A5568" font-family="serif" font-size="14">
+and other interested parties in the environmental assessment process.
+</text>
+
+<!-- Footer -->
+<text x="70" y="1150" fill="#718096" font-family="serif" font-size="12">
+Page 2 - Systematic Environmental Impact Assessment and Community Consultation
+</text>
+<circle cx="750" cy="1150" r="20" fill="#22C55E"/>
+<text x="750" y="1155" text-anchor="middle" fill="white" font-family="serif" font-size="14" font-weight="600">2</text>
+</svg>
